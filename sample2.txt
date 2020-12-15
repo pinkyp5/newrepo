@@ -1,0 +1,9 @@
+pwd is presnet working directory
+cd id to change directory 
+i is insert mode
+escape :wq is save and quit
+git add . checks worspace files which are to be modifies
+and {space before.}
+green color in status indicated file in index area
+red workspace
+all files in index are commited 
