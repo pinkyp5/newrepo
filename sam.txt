@@ -1,0 +1,11 @@
+vi .git/config opens a file with origin
+dd to delete entire line in command mode
+
+git add remote origin url
+git remote shows origin 
+git push -u origin master
+pushes updated files from lr to rr
+git pull origin master
+pulls updates from rr to lr
+
+
