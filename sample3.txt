@@ -1,0 +1,10 @@
+ all this done by developers
+ git ls-files shows files
+ :w is save q to come out
+ git show -shows last commit msg
+ git log--all ->shows all commits till now
+ git log -gives commit details
+ git log--oneline -shows commit in onleline
+
+
+ we only do merge as devops engineer.
