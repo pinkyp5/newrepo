@@ -1,0 +1,5 @@
+new floder to be created and do init 
+so u dont have to deal with files not yet commited
+/ files are existing files 
+in default path repo/
+so create new repo by creating a folder and open bash there 
