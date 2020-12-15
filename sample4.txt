@@ -1,0 +1,4 @@
+rm to remove files
+to restore deleted- git restore --staged <file name>
+to revert- git revert id
+id grom git show
